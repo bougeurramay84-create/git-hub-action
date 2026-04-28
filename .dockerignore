@@ -1,0 +1,8 @@
+cat <<EOF > .dockerignore
+.git
+.github
+node_modules
+README.md
+.dockerignore
+EOF
+#by salma
